@@ -5,6 +5,7 @@ ___
 
 - 🔭 I’m currently working on my portfolio and personal projects.
 - 🌱 I’m currently learning CS 70, Discrete maths.
-- 🥂 2023 Goals: declare CS at Cal.
-- ✨ Fun fact: I am a hobbyist digital artist.
+- 🥂 2023 Goals: declare CS.
+- 🤔 I'm looking forward to learn more about ML/AI. 
+- ✨ Fun fact: I'm a hobbyist digital artist.
 
