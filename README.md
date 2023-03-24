@@ -2,10 +2,9 @@
 
 ### I'm a software engineer!!
 
-- 🔭 I’m currently working on my portfolio and personal projects.
 - 🌱 I’m a student at UC Berkeley.
 - 🥂 2023 Goals: declare CS.
-- 🤔 I'm looking forward to learn more about ML/AI. 
+- 🤔 I'm looking forward to learning more about AI/ML.
 - ✨ Fun fact: I'm a hobbyist digital artist!
 
 ### Languages and Tools:
