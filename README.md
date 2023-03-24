@@ -4,10 +4,10 @@ ___
 ### I'm a software engineer!!
 
 - 🔭 I’m currently working on my portfolio and personal projects.
-- 🌱 I’m currently learning CS 70, Discrete maths.
+- 🌱 I’m a student at UC Berkeley.
 - 🥂 2023 Goals: declare CS.
 - 🤔 I'm looking forward to learn more about ML/AI. 
-- ✨ Fun fact: I'm a hobbyist digital artist.
+- ✨ Fun fact: I'm a hobbyist digital artist!
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/psf/trademarks-faq/Python-logo-notext-rotate-flip.png" />
