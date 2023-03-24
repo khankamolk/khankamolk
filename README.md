@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Khankamol Chor 👋
+======
 
+**I'm a software engineer!!**
 
-**khankamolk/khankamolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning web development.
-- ⚡ Fun fact: I am a hobbyist digital artist!
+- 🔭 I’m currently working on my portfolio and personal projects.
+- 🌱 I’m currently learning CS 70, Discrete maths.
+- 🥂 2023 Goals: declare CS at Cal.
+- ✨ Fun fact: I am a hobbyist digital artist.
 
