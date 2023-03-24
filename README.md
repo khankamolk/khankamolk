@@ -1,7 +1,7 @@
 ### Hi there, I'm Khankamol Chor 👋
 ___
 
-*I'm a software engineer!!*
+***I'm a software engineer!!***
 
 - 🔭 I’m currently working on my portfolio and personal projects.
 - 🌱 I’m currently learning CS 70, Discrete maths.
