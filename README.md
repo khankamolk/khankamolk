@@ -10,4 +10,4 @@ ___
 - ✨ Fun fact: I'm a hobbyist digital artist.
 
 ### Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,git,html,css,js,ts,react)](https://skills.thijs.gg)
