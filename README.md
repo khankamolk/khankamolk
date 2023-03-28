@@ -1,11 +1,18 @@
 ## Hi there, I'm Khankamol Chor 👋
+I'm a current full-time student at University of California, Berkeley. Always eager for opportunities to learn and grow!
 
-### I'm a software engineer!!
+## Languages / Technologies
+- Python, Java, R, MySQL, RegEX, HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js
+- Figma, Adobe Illustrator, Photoshop
 
-- 🌱 I’m a student at UC Berkeley.
-- 🥂 2023 Goals: declare CS.
-- 🤔 I'm looking forward to learning more about AI/ML.
-- ✨ Fun fact: I'm a hobbyist digital artist!
+## More about me...
+- Born in Bangkok, Thailand
+- CS + Stats @ UC Berkeley
+- Hobbyist digital artist and graphic designer
+
+
+<!---
+Icons from https://github.com/tandpfun/skill-icons
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" />
@@ -21,7 +28,4 @@
 <img align="left" alt="Node.js" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" />
 <img align="left" alt="Next.js" width="26px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" />
-
-<!---
-Icons from https://github.com/tandpfun/skill-icons
 -->
