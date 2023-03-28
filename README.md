@@ -1,11 +1,12 @@
 ## Hi there, I'm Khankamol Chor 👋
 I'm a current full-time student at University of California, Berkeley. Always eager for opportunities to learn and grow!
 
-### Languages / Technologies
-- Python, Java, R, MySQL, RegEX, HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js
+## Languages / Tools
+- Python, Java, R, MySQL, RegEX
+- HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js
 - Figma, Adobe Illustrator, Photoshop
 
-### More about me...
+## More about me...
 - Born in Bangkok, Thailand
 - CS + Stats @ UC Berkeley
 - Hobbyist digital artist and graphic designer
