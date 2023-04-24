@@ -1,6 +1,6 @@
 ## Hi there, I'm Khankamol Chor 👋
 I'm a current full-time student at University of California, Berkeley. Always eager for opportunities to learn and grow!
-Check out my website here https://khankamolk.github.io/my-website/.
+You can check out my website here https://khankamolk.github.io/my-website/.
 
 ## Languages / Tools
 - Python, Java, R, MySQL, RegEX
