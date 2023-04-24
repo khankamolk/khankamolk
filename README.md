@@ -1,5 +1,6 @@
 ## Hi there, I'm Khankamol Chor 👋
 I'm a current full-time student at University of California, Berkeley. Always eager for opportunities to learn and grow!
+Check out my website here https://khankamolk.github.io/my-website/.
 
 ## Languages / Tools
 - Python, Java, R, MySQL, RegEX
@@ -10,7 +11,6 @@ I'm a current full-time student at University of California, Berkeley. Always ea
 - Born in Bangkok, Thailand
 - CS + Stats @ UC Berkeley
 - Hobbyist digital artist and graphic designer
-- My website: https://khankamolk.github.io/my-website/
 
 <!---
 Icons from https://github.com/tandpfun/skill-icons
