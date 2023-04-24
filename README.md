@@ -10,7 +10,7 @@ I'm a current full-time student at University of California, Berkeley. Always ea
 - Born in Bangkok, Thailand
 - CS + Stats @ UC Berkeley
 - Hobbyist digital artist and graphic designer
-
+- My website: https://khankamolk.github.io/my-website/
 
 <!---
 Icons from https://github.com/tandpfun/skill-icons
