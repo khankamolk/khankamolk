@@ -8,7 +8,7 @@ Check out my website here https://khankamolk.github.io/my-website/ :))
 - Figma, Adobe Illustrator, Photoshop
 
 ## More about me...
-- Born in Bangkok, Thailand
+- From Bangkok, Thailand
 - CS + Stats @ UC Berkeley
 - Hobbyist digital artist and graphic designer
 
