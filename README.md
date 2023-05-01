@@ -3,9 +3,9 @@ I'm a current full-time student at University of California, Berkeley. Always ea
 Check out my website here https://khankamolk.github.io/my-website/ :))
 
 ## Languages / Tools
-- Python, Java, R, MySQL, RegEX
+- Python, Java, R, SQL, RegEX
 - HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js
-- Figma, Adobe Illustrator, Photoshop
+- Figma, Adobe Illustrator, Photoshop, Indesign
 
 ## More about me...
 - From Bangkok, Thailand
