@@ -11,6 +11,7 @@ Check out my website here https://khankamolk.github.io/my-website/ :))
 - From Bangkok, Thailand
 - Computer Sciece + Data Science (Emphasis in Economics) @ UC Berkeley
 - Hobbyist digital artist and graphic designer
+- Cat mom
 
 <!---
 Icons from https://github.com/tandpfun/skill-icons
