@@ -3,13 +3,13 @@ I'm a current full-time student at University of California, Berkeley. Always ea
 Check out my website here https://khankamolk.github.io/my-website/ :))
 
 ## Languages / Tools
-- Python, Java, R, SQL, RegEX
+- Python, Java, R, SQL, RegEX, C, RISC-V, x86 Assembly
 - HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js
-- Figma, Adobe Illustrator, Photoshop, Indesign
+- Figma, Adobe Suite (Illustrator, Photoshop, Indesign, Premier Pro)
 
 ## More about me...
 - From Bangkok, Thailand
-- CS + Stats @ UC Berkeley
+- Computer Sciece + Data Science (Emphasis in Economics) @ UC Berkeley
 - Hobbyist digital artist and graphic designer
 
 <!---
