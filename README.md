@@ -1,10 +1,10 @@
 ## Hi there, I'm Khankamol Chor 👋
-I'm a current full-time student at University of California, Berkeley. Always eager for opportunities to learn and grow!
+I'm currently studying Computer Science and Data Science at the University of California, Berkeley. Always eager for opportunities to learn and grow!
 Check out my website here https://khankamolk.github.io/my-website/ :))
 
 ## Languages / Tools
-- Python, Java, R, SQL, RegEX, C, RISC-V, x86 Assembly
-- HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js
+- Python, Java, Go, R, SQL, RegEX, C, RISC-V, x86 Assembly
+- HTML/CSS, JavaScript, TypeScript, React, Node.js, Next.js
 - Figma, Adobe Suite (Illustrator, Photoshop, Indesign, Premier Pro)
 
 ## More about me...
