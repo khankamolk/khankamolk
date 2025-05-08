@@ -1,6 +1,5 @@
 ## Hi there, I'm Khankamol Chor 👋
-I'm currently studying Computer Science and Data Science at the University of California, Berkeley. Always eager for opportunities to learn and grow!
-Check out my website here https://khankamolk.github.io/my-website/ :))
+I'm currently studying Computer Science and Data Science at the University of California, Berkeley.
 
 ## Languages / Tools
 - Python, Java, Go, R, SQL, RegEX, C, RISC-V, x86 Assembly
