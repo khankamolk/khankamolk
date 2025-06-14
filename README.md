@@ -1,5 +1,5 @@
 ## Hi there, I'm Khankamol Chor 👋
-I'm currently studying Computer Science and Data Science at the University of California, Berkeley.
+I'm a recent Computer Science and Data Science new grad from University of California, Berkeley!
 
 ## Languages / Tools
 - Python, Java, Go, R, SQL, RegEX, C, RISC-V, x86 Assembly
