@@ -1,5 +1,5 @@
-## Hi there, I'm Khankamol Chor 👋
-I'm a recent Computer Science and Data Science new grad from University of California, Berkeley!
+## Hi, I'm Khankamol Chor 👋
+I studied Computer Science and Data Science at UC Berkeley!
 
 ## Languages / Tools
 - Python, Java, Go, R, SQL, RegEX, C, RISC-V, x86 Assembly
@@ -8,8 +8,8 @@ I'm a recent Computer Science and Data Science new grad from University of Calif
 
 ## More about me...
 - From Bangkok, Thailand
-- Computer Sciece + Data Science (Emphasis in Economics) @ UC Berkeley
-- Hobbyist digital artist and graphic designer
+- I design for fun
+- Miniature modeling hobbyist
 - Cat mom
 
 <!---
